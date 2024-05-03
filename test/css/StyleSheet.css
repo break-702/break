@@ -1,0 +1,71 @@
+﻿body {
+}
+background-color:Green;
+   }
+
+#header
+/*تنسيق راس الصفحه*/
+{
+    background-color:Lime;/*لون خلفية الصفحه*/
+    
+    border-style:double;/*شكل الاطار*/
+    border-width:18px;/*حجم الاطار*/
+    border-color:Blue;/*لون الاطار*/
+    border-radius:150px;/*استدارة زاويا الاطار*/
+    
+    font-family:DecoType Thuluth;/*لون الخط*/
+    font-size:40px;/*حجم الخط*/
+    color:Black;/*لون الخط*/
+}
+
+#nav
+{
+    background-color:Gray;
+    
+    border-style:double;
+    border-width:15px;
+    border-color:Black;
+    
+    font-family:DecoType Thuluth;
+    font-size:40px;
+    color:Black;
+}
+
+#aside
+{
+    background-color:Fuchsia;
+    
+    border-style:double;
+    border-width:18px;
+    border-color:Orange;
+    
+    font-family:DecoType Thuluth;
+    font-size:40px;
+    color:Black;
+}
+
+#content
+{
+    background-color:Blue;
+    
+    border-style:double;
+    border-width:18px;
+    border-color:Purple;
+    
+    font-family:DecoType Thuluth;
+    font-size:40px;
+    color:Black;
+}
+
+#footer
+{
+    background-color:Silver;
+    
+    border-style:double;
+    border-width:18px;
+    border-color:Purple;
+    
+    color:Red;
+    font-size:16px;
+    font-family:DecoType Thuluth;
+}
